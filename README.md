@@ -74,13 +74,12 @@ Full-stack employee management app with image upload.
 
 ---
 
-## 📈 GitHub Stats
+## 🧰 Tools & Technologies
 
-![Nithish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=V-Nithish&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=V-Nithish&layout=compact&theme=tokyonight)
+Here are some of the tools I’ve worked with recently:
 
----
-
-> _"Code is like humor. When you have to explain it, it’s bad."_ – **Cory House**
-
-Let's build something amazing together 🚀  
+| Language       | Framework / Library     | Tools / Platforms         |
+|----------------|--------------------------|---------------------------|
+| Java           | Spring Boot, JSP         | Git, GitHub, Postman      |
+| JavaScript     | React.js                 | VS Code, IntelliJ, Eclipse|
+| HTML/CSS       | Bootstrap                | MySQL, XAMPP              |
